@@ -1,8 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=MOHAMED%20MOGHAZY&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Full%20Stack%20Developer%20•%20AI%20Enthusiast&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=MOHAMED%20MOGHAZY&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Backend%20Developer%20•%20AI%20Enthusiast&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Software+Engineer;Laravel+%26+Node.js+Developer;Backend+Engineer;Artificial+Intelligence+Enthusiast;Competitive+Programmer" />
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Software+Engineer;Laravel+%26+Node.js+Developer;Backend+Engineer;Artificial+Intelligence+Enthusiast;Competitive+Programmer;Building+Scalable+Systems" />
+
+<br><br>
+
+<a href="https://github.com/m7mdmoghazy">
+<img src="https://img.shields.io/github/followers/m7mdmoghazy?style=for-the-badge&logo=github&color=181717&labelColor=000000" />
+</a>
+
+<a href="https://github.com/m7mdmoghazy">
+<img src="https://komarev.com/ghpvc/?username=m7mdmoghazy&style=for-the-badge&color=0e75b6" />
+</a>
 
 </div>
 
@@ -20,33 +32,37 @@
 <tr>
 <td width="55%" align="left">
 
-### 🚀 Passionate Developer
-
 ```yaml
 Name: Mohamed Moghazy
 Role: Software Engineer
-Specialization: Backend Development
+Specialization: Backend Engineering
 Stack: Laravel • Node.js • AI
+University: Faculty of Artificial Intelligence
 Focus:
-  - Scalable Systems
+  - Scalable Web Applications
   - REST APIs
-  - AI Solutions
-  - System Design
+  - Artificial Intelligence
+  - System Architecture
+  - Competitive Programming
 ```
 
 <br>
 
-✨ Building scalable and secure web applications  
+🚀 Passionate about building scalable and secure web applications  
+
 ⚡ Specialized in backend development & API architecture  
-🤖 Interested in Artificial Intelligence and smart systems  
-🧠 Strong problem-solving and competitive programming skills  
-📚 Continuously learning modern technologies and architectures  
+
+🤖 Interested in Artificial Intelligence and intelligent systems  
+
+🧠 Strong problem-solving and algorithmic thinking skills  
+
+📚 Continuously learning modern technologies and software architecture  
 
 </td>
 
 <td width="45%" align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzR1bXlqYmJjNjN4M2Z6ZWRqdmN2bjZqbGN5Z3R0eG81Z2M0b3N3MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" />
 
 </td>
 </tr>
@@ -140,21 +156,29 @@ Developing scalable backend systems and RESTful APIs using Laravel & Node.js.
 
 <br>
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://skillicons.dev/icons?i=github" width="55" />
+<a href="https://github.com/m7mdmoghazy">
+  <img src="https://skillicons.dev/icons?i=github" width="60" />
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://linkedin.com/in/YOUR_LINK">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
+<a href="https://www.linkedin.com/in/mohamed-moghazy-0727a529a">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="60" />
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="55" />
+<a href="mailto:mohammedmoghazy4000@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="60" />
 </a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Gmail-mohammedmoghazy4000%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Moghazy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 </div>
 
@@ -162,7 +186,7 @@ Developing scalable backend systems and RESTful APIs using Laravel & Node.js.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Building+Scalable+Systems;Backend+Engineer;AI+Enthusiast;Competitive+Programmer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Backend+Engineer;AI+Enthusiast;Competitive+Programmer;Building+Reliable+Systems;Always+Learning+New+Technologies" />
 
 </div>
 
