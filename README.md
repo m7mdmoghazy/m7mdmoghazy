@@ -1,109 +1,130 @@
-<h1 align="center">Hi 👋, I'm Mohamed Moghazy</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | AI Enthusiast</h3>
+<div align="center">
+
+# Mohamed Moghazy
+
+### Software Engineer • Full Stack Developer • AI Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;Laravel+%7C+Node.js+Engineer;Artificial+Intelligence+Enthusiast;Competitive+Programmer" />
+
+<br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;Laravel+%7C+Node.js+Developer;Artificial+Intelligence+Enthusiast;Competitive+Programmer" />
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=0A66C2" />
+  </a>
+
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=blue" />
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=brightgreen" />
+
 </p>
+
+</div>
 
 ---
 
 # 💫 About Me
 
-🎓 I am a student at the Faculty of Artificial Intelligence at Delta University.  
-💻 Currently working as a Full Stack Engineer and Competitive Programmer.  
-🚀 Passionate about building scalable web applications and backend systems.  
-🧠 Interested in Artificial Intelligence, System Design, and Cloud Computing.  
-⚡ Strong problem-solving skills gained through competitive programming.  
-📚 Always learning new technologies and improving my engineering skills.  
+```yaml
+Name: Mohamed Moghazy
+Role: Software Engineer
+Focus: Backend Development & AI Systems
+Education: Faculty of Artificial Intelligence
+University: Delta University
+```
+
+- 🚀 Building scalable and secure web applications  
+- 💻 Specialized in Laravel & Node.js backend development  
+- 🤖 Passionate about Artificial Intelligence and smart systems  
+- 🧠 Strong problem-solving and algorithmic thinking skills  
+- ⚡ Competitive Programmer with focus on performance optimization  
+- 📚 Continuously learning modern technologies and architectures  
 
 ---
 
-# 🛠️ Tech Stack
+# ⚙️ Tech Stack
 
-## 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,php,js,java,cpp,dart" />
-</p>
+<div align="center">
 
-## 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,html,css,bootstrap,tailwind,react" />
-</p>
+### Languages
+<img src="https://skillicons.dev/icons?i=php,js,python,java,cpp,dart" />
 
-## 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb" />
-</p>
+### Backend & Web
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,react,html,css,bootstrap,tailwind" />
 
-## 🤖 AI & Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
-</p>
+### Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,docker" />
 
-## ⚙️ Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,docker" />
-</p>
+### AI & Tools
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,git,github,linux,postman,vscode" />
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🧠 Sign Language Recognition System
-AI-powered system for recognizing hand signs using MediaPipe & TensorFlow.
+<div align="center">
 
-## 📱 Smart Pharmacy Application
-Flutter-based pharmacy application with chatbot integration and medicine ordering system.
+| Project | Description |
+|----------|-------------|
+| 🧠 Sign Language Recognition | AI system using MediaPipe & TensorFlow |
+| 📱 Smart Pharmacy System | Full Stack pharmacy application with chatbot |
+| 🤖 Autism Detection System | Graduation project using AI for early autism detection |
+| 🌐 Web Applications | Backend systems using Laravel & Node.js |
 
-## 🤖 Autism Early Detection System
-Graduation project focused on detecting autism indicators in children using Artificial Intelligence.
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+</div>
 
 ---
 
-# 🏆 Competitive Programming
+# 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7" />
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/YOUR_USERNAME" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINK" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<a href="https://linkedin.com/in/YOUR_LINK">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+  <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
-</p>
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<div align="center">
 
-<h3 align="center">⚡ Building scalable systems & smart solutions.</h3>
+### ⚡ "Building reliable systems and intelligent solutions."
+
+</div>
